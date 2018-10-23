@@ -3,3 +3,9 @@
 ################################################################################
 
 /LightORM/LightORM/obj/Debug
+/LightORM/Presentation/obj/Debug
+/LightORM/Presentation/bin/Debug
+/LightORM/LightORM/bin/Debug
+/LightORM/.vs/LightORM/DesignTimeBuild
+/LightORM/.vs/LightORM/v15/Server/sqlite3
+/LightORM/.vs/LightORM/v15

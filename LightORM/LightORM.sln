@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightORM", "LightORM\LightORM.csproj", "{E156D34E-7256-4B7D-ACD8-293E8F1D7F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{9613EF5C-15CA-4332-BFBB-A7C4CCE6D284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E156D34E-7256-4B7D-ACD8-293E8F1D7F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E156D34E-7256-4B7D-ACD8-293E8F1D7F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E156D34E-7256-4B7D-ACD8-293E8F1D7F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E156D34E-7256-4B7D-ACD8-293E8F1D7F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9613EF5C-15CA-4332-BFBB-A7C4CCE6D284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9613EF5C-15CA-4332-BFBB-A7C4CCE6D284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9613EF5C-15CA-4332-BFBB-A7C4CCE6D284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9613EF5C-15CA-4332-BFBB-A7C4CCE6D284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92D06683-A24B-4174-A680-34D4195B0DFB}
+	EndGlobalSection
+EndGlobal
